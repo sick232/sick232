@@ -1,4 +1,4 @@
-name: Update LeetCode Stats
+name: Update Profile Stats
 
 on:
   schedule:
@@ -6,6 +6,10 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
     # Allow manual trigger
+  push:
+    # Run when code is pushed
+    branches:
+      - main
 
 jobs:
   update-readme:
@@ -35,4 +39,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "📊 Update LeetCode stats" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "✨ Auto-update: LeetCode & GitHub stats" && git push)

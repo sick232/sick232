@@ -188,9 +188,11 @@ Pandas   ░░░░░░░░░░░░░░░░░░░░   3 Proble
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sick232&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sick232&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sick232&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sick232&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sick232&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -207,6 +209,18 @@ Greedy                 ███████▓░░░░░░░░░░░
 ```
 
 </div>
+
+### 📊 Quick GitHub Stats
+
+| 🔗 Repositories | ⭐ Contributions | 📌 Followers | 🌟 Stars |
+|:------------:|:---------------:|:----------:|:-------:|
+| **8+** | **110+** | Growing | **50+** |
+
+### 💻 LeetCode At a Glance
+
+| Contest Rating | Global Rank | Problems Solved | Languages |
+|:-------------:|:----------:|:---------------:|:---------:|
+| **1,629** ⭐ | **Top 19.61%** 🚀 | **308** | **C++, Java, Pandas** |
 
 ### Performance Metrics
 

@@ -1,4 +1,5 @@
-# 
+# Hi there! 👋 I'm Piyush Maurya (@sick232)
+
 <div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&width=600&height=100&lines=Hi+👋+I'm+Piyush+Maurya;Full-Stack+Developer+%26+AI+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" />
@@ -15,7 +16,7 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEKlrjZXmso1Xsn/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1o5xfzPoTccqxrmPp&ep=v1_stickers_trending&rid=giphy.gif" width="25"> About Me
+## About Me
 
 ```
 🎯 Passionate about creating intelligent solutions that make real impact
@@ -31,7 +32,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRQ6zDpT3Be1rcl/giphy.gif" width="25"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,7 +67,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -182,89 +183,116 @@ Pandas   ░░░░░░░░░░░░░░░░░░░░   3 Proble
 
 ---
 
-## � Statistics & Analytics
+## 📈 Statistics & Analytics
 
-### GitHub Overview
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sick232&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sick232&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sick232&theme=dark&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
-### Problem Solving Skills Distribution
-
-<div align="center">
+### GitHub Contributions
 
 ```
-Dynamic Programming    ████████████▓░░░░░░░░░░░░░░░░░░░ 27 problems
-Math                   ████████████████████▓░░░░░░░░░░░░ 94 problems
-Array Problems         ████████████████████▓░░░░░░░░░░░░ 214 problems
-Hash Table             ██████████████▓░░░░░░░░░░░░░░░░░░ 70 problems
-Greedy                 ███████▓░░░░░░░░░░░░░░░░░░░░░░░░░ 41 problems
+Total Contributions   ███████████████████░ 118+ commits
+Current Streak        ██░░░░░░░░░░░░░░░░░░  2 days 🔥
+Longest Streak        ███░░░░░░░░░░░░░░░░░░  4 days
+Repositories          ███████░░░░░░░░░░░░░░  9 public
+Languages             ██████░░░░░░░░░░░░░░░  6 languages
 ```
 
-</div>
+### Top Languages by Usage
 
-### 📊 Quick GitHub Stats
+```
+Python       ████████████████░░░░ 45%
+C++          █████████░░░░░░░░░░░ 25%
+JavaScript   ████░░░░░░░░░░░░░░░░  8%
+HTML/CSS     ███░░░░░░░░░░░░░░░░░  7%
+Java         ██░░░░░░░░░░░░░░░░░░  5%
+Others       ░░░░░░░░░░░░░░░░░░░░  10%
+```
 
-| 🔗 Repositories | ⭐ Contributions | 📌 Followers | 🌟 Stars |
-|:------------:|:---------------:|:----------:|:-------:|
-| **8+** | **110+** | Growing | **50+** |
+### 💪 Quick Stats
 
-### 💻 LeetCode At a Glance
+| 📌 Repos | 💬 Contributions | 🔥 Streak | ⭐ Stars |
+|:--------:|:---------------:|:--------:|:-------:|
+| **9** | **118+** | **2** | **50+** |
 
-| Contest Rating | Global Rank | Problems Solved | Languages |
-|:-------------:|:----------:|:---------------:|:---------:|
-| **1,629** ⭐ | **Top 19.61%** 🚀 | **308** | **C++, Java, Pandas** |
+### Skill Proficiency
 
-### Performance Metrics
+```
+Full-Stack Development    ███████████████████░ 95%
+Machine Learning          ████████████████░░░░ 85%
+Problem Solving           ███████████████████░ 95%
+IoT & Embedded Systems    ██████████████░░░░░░ 75%
+System Design             ███████████████░░░░░ 80%
+Data Structures & Algo    ████████████████████ 98%
+```
+
+---
+
+## What I Do
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| **Problems Solved** | 308 |
-| **Acceptance Rate** | 58.67% |
-| **Beats** | 93.14% (Time), 92.28% (Memory) |
-| **Languages** | C++, Java, Pandas |
-| **Current Streak** | 39 days 🔥 |
-| **Contest Rating** | 1,629 |
-| **Global Rank** | Top 19.61% |
+| What | How | Why |
+|------|-----|-----|
+| 🔧 **Full-Stack Development** | Python, Flask, JavaScript | Build complete end-to-end solutions |
+| 🤖 **AI/ML Implementation** | TensorFlow, PyTorch, OpenCV | Solve complex real-world problems |
+| 💡 **Problem Solving** | Competitive Programming | Develop algorithmic thinking |
+| ♿ **Assistive Technology** | Arduino, IoT, Hardware | Create tech that helps people |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## My Philosophy
 
-I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out!
+<div align="center">
 
-- 🔗 **GitHub:** [sick232](https://github.com/sick232)
-- � **LeetCode:** [piyushmaurya132](https://leetcode.com/u/piyushmaurya132/)
-- 🔗 **LinkedIn:** [piyush-maurya13](https://linkedin.com/in/piyush-maurya13)
-- �💬 **Open to:** Collaborations, Freelance Projects, Web Development, AI/ML Solutions
-- 🎯 **Looking for:** Like-minded developers and AI enthusiasts to collaborate with
+> *"Code is not just about making things work,*  
+> *it's about making things better."*
 
----
+> *"The best technology is one that solves real problems*  
+> *and makes a positive impact on people's lives."*
 
-## 💼 What I Do
-
-- **Full-Stack Development:** Build complete solutions from database to UI
-- **AI/ML Implementation:** Integrate state-of-the-art AI models into practical applications
-- **Problem Solving:** Create innovative solutions for real-world challenges
-- **Assistive Technology:** Develop tech that helps people with disabilities
+</div>
 
 ---
 
-> "Code is not just about making things work, it's about making things better." - me
+## 🤝 Let's Connect & Collaborate!
 
-Thanks for visiting! Feel free to explore my repositories, star ⭐ the projects you like, and don't hesitate to reach out for collaborations!
+<div align="center">
+
+I'm always excited to connect with fellow developers, AI enthusiasts, and innovators. Let's build something amazing together!
+
+[![GitHub](https://img.shields.io/badge/GitHub-sick232-181717?style=for-the-badge&logo=github)](https://github.com/sick232)
+[![LeetCode](https://img.shields.io/badge/LeetCode-piyushmaurya132-FFA500?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/piyushmaurya132/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyush--maurya13-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/piyush-maurya13)
+
+### Open To:
+- 💼 **Freelance Projects** - Web Development, AI/ML Solutions
+- 🤝 **Collaborations** - Open source, hackathons, research
+- 📚 **Mentoring** - Help aspiring developers grow
+- 🚀 **Opportunities** - Full-time roles in AI/Full-Stack development
+
+</div>
 
 ---
+
+## Featured Statistics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sick232&style=flat-square&color=00D9FF)
+![GitHub Followers](https://img.shields.io/github/followers/sick232?style=flat-square&logo=github&label=Followers&color=00D9FF)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects interesting, don't forget to star them!
+
+**Thanks for visiting! Feel free to explore my repositories and reach out for collaborations.** 🙏
+
+<img src="https://media.giphy.com/media/LnQjwuFamnje4OWNic/giphy.gif" width="60"><br>
 
 **Last Updated:** February 2026
+
+</div>

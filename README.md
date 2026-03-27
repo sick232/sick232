@@ -143,24 +143,24 @@
 
 <div align="center">
 
+<!-- leetcode-stats-start -->
 ### 📊 Problem Solving Statistics
 
 ```
-Total Solved      ███████████████████░ 308 Problems  (100%)
-Easy              ████████░░░░░░░░░░░░ 124 Problems  (40.3%)
-Medium            █████████████░░░░░░░ 172 Problems  (55.8%)
-Hard              ██░░░░░░░░░░░░░░░░░░  12 Problems  (3.9%)
+Total Solved      ████████████████████░ 353 Problems  (100%)
+Easy              ███████░░░░░░░░░░░░░ 138 Problems  (39.1%)
+Medium            ███████████░░░░░░░░░ 198 Problems  (56.1%)
+Hard              ░░░░░░░░░░░░░░░░░░░░ 17 Problems  (4.8%)
 ```
 
 ### 🎯 Contest Performance
 
 | Metric | Value |
 |:----:|:----:|
-| **Rating** | 1,629 ⭐ |
-| **Global Rank** | Top 19.61% 🚀 |
-| **Submissions** | 569 |
-| **Acceptance** | 58.67% |
-| **Contests Attended** | 9 |
+| **Rating** | 1656 ⭐ |
+| **Global Rank** | Top 16.97% 🚀 |
+| **Problems Solved** | 353 |
+<!-- leetcode-stats-end -->
 
 ### 🏅 Languages Used
 

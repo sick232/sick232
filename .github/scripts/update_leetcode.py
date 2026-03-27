@@ -16,11 +16,11 @@ def get_leetcode_stats(username):
                     count
                 }
             }
-            userContestRanking {
-                rating
-                globalRanking
-                topPercentage
-            }
+        }
+        userContestRanking(username: $username) {
+            rating
+            globalRanking
+            topPercentage
         }
     }
     """
@@ -38,7 +38,7 @@ def get_leetcode_stats(username):
             print(f"GraphQL Error: {data['errors']}")
             return None
             
-        return data.get("data", {}).get("matchedUser")
+        return data.get("data", {})
     except Exception as e:
         print(f"Error fetching LeetCode data: {e}")
         return None
@@ -48,15 +48,19 @@ def format_leetcode_stats(stats):
     if not stats:
         return None
     
-    user_stats = stats.get("submitStatsGlobal", {}).get("acSubmissionNum", [])
-    contest_ranking = stats.get("userContestRanking", {})
+    matched_user = stats.get("matchedUser") or {}
+    user_stats = matched_user.get("submitStatsGlobal", {}).get("acSubmissionNum", [])
     
-    total_solved = sum(item["count"] for item in user_stats)
+    contest_ranking = stats.get("userContestRanking") or {}
+    
+    total_solved = next((item["count"] for item in user_stats if item["difficulty"] == "All"), 0)
     easy = next((item["count"] for item in user_stats if item["difficulty"] == "Easy"), 0)
     medium = next((item["count"] for item in user_stats if item["difficulty"] == "Medium"), 0)
     hard = next((item["count"] for item in user_stats if item["difficulty"] == "Hard"), 0)
     
-    rating = contest_ranking.get("rating", "N/A")
+    rating_val = contest_ranking.get("rating")
+    rating = f"{rating_val:.0f}" if isinstance(rating_val, (int, float)) else "N/A"
+    
     global_rank = contest_ranking.get("globalRanking", "N/A")
     top_percentage = contest_ranking.get("topPercentage", "N/A")
     
@@ -95,11 +99,18 @@ def update_readme(new_section):
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Find and replace the LeetCode section
-    pattern = r"### 📊 Problem Solving Statistics\n\n```[\s\S]*?```\n\n### 🎯 Contest Performance\n\n\| Metric \| Value \|\n\|:----:\|:----:\|\n\| \*\*Rating\*\* \| [\s\S]*?\*\*Problems Solved\*\* \| \d+ \|"
-    
-    if re.search(pattern, content):
-        new_content = re.sub(pattern, new_section, content, flags=re.DOTALL)
+    # Find and replace the LeetCode section using markers or regex
+    # First try to find HTML comments
+    if "<!-- leetcode-stats-start -->" in content and "<!-- leetcode-stats-end -->" in content:
+        pattern = r"<!-- leetcode-stats-start -->[\s\S]*?<!-- leetcode-stats-end -->"
+        replacement = f"<!-- leetcode-stats-start -->\n{new_section}\n<!-- leetcode-stats-end -->"
+        new_content = re.sub(pattern, replacement, content)
+    else:
+        # Fallback regex
+        pattern = r"### 📊 Problem Solving Statistics\n\n```[\s\S]*?```\n\n### 🎯 Contest Performance\n\n\| Metric \| Value \|\n\|:----:\|:----:\|[\s\S]*?(?=\n\n###|\n\n</div>)"
+        new_content = re.sub(pattern, new_section, content)
+
+    if new_content != content:
         with open(readme_path, 'w', encoding='utf-8') as f:
             f.write(new_content)
         print("✅ README.md updated successfully!")

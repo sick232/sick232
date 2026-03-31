@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&width=600&height=100&lines=Hi+👋+I'm+Piyush+Maurya;Full-Stack+Developer+%26+AI+Enthusiast;Building+Solutions+That+Matter" alt="Typing SVG" />
   
   <p>
+    <a href="https://piyushmaurya.me"><img src="https://img.shields.io/badge/Portfolio-piyushmaurya.me-4CAF50?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio"></a>
     <a href="https://github.com/sick232"><img src="https://img.shields.io/badge/GitHub-@sick232-181717?style=flat-square&logo=github" alt="GitHub"></a>
     <a href="https://leetcode.com/u/piyushmaurya132/"><img src="https://img.shields.io/badge/LeetCode-piyushmaurya132-FFA500?style=flat-square&logo=leetcode" alt="LeetCode"></a>
     <a href="https://linkedin.com/in/piyush-maurya13"><img src="https://img.shields.io/badge/LinkedIn-piyush--maurya13-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>

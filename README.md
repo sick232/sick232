@@ -147,10 +147,10 @@
 ### 📊 Problem Solving Statistics
 
 ```
-Total Solved      ████████████████████░ 360 Problems  (100%)
-Easy              ███████░░░░░░░░░░░░░ 141 Problems  (39.2%)
-Medium            ███████████░░░░░░░░░ 201 Problems  (55.8%)
-Hard              █░░░░░░░░░░░░░░░░░░░ 18 Problems  (5.0%)
+Total Solved      ████████████████████░ 361 Problems  (100%)
+Easy              ███████░░░░░░░░░░░░░ 141 Problems  (39.1%)
+Medium            ███████████░░░░░░░░░ 202 Problems  (56.0%)
+Hard              ░░░░░░░░░░░░░░░░░░░░ 18 Problems  (5.0%)
 ```
 
 ### 🎯 Contest Performance
@@ -159,7 +159,7 @@ Hard              █░░░░░░░░░░░░░░░░░░░ 1
 |:----:|:----:|
 | **Rating** | 1676 ⭐ |
 | **Global Rank** | Top 15.18% 🚀 |
-| **Problems Solved** | 360 |
+| **Problems Solved** | 361 |
 <!-- leetcode-stats-end -->
 
 ### 🏅 Languages Used

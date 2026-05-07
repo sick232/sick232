@@ -158,7 +158,7 @@ Hard              ░░░░░░░░░░░░░░░░░░░░ 1
 | Metric | Value |
 |:----:|:----:|
 | **Rating** | 1660 ⭐ |
-| **Global Rank** | Top 16.68% 🚀 |
+| **Global Rank** | Top 16.72% 🚀 |
 | **Problems Solved** | 364 |
 <!-- leetcode-stats-end -->
 
